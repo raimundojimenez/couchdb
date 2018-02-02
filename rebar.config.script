@@ -64,8 +64,9 @@ DepDescs = [
 {ibrowse,          "ibrowse",          {tag, "CouchDB-4.0.1"}},
 {jiffy,            "jiffy",            {tag, "CouchDB-0.14.11-2"}},
 {mochiweb,         "mochiweb",         {tag, "CouchDB-2.12.0-1"}},
-{meck,             "meck",             {tag, "0.8.8"}}
-
+{meck,             "meck",             {tag, "0.8.8"}},
+{triq,             {url, "https://github.com/triqng/triq.git"},
+                   "1a9b022cc0432c9314f6f06c61dc375e474b5573"}
 ],
 
 
